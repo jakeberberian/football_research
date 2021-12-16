@@ -1,2 +1,2 @@
 # football_research
-To expand upon work done in MATH-390 while at AU.
+While at AU, I did a decent amount of research into the impact of fantasy points and outcomes of real NFL games for an independent study, MATH-390. It found that approximately 25% of games result in a win for Team A on the field, but more fantasy points for Team B. I'm aiming to look into the impact of fantasy point **projections** and winning teams, in hope of building out a way to make money betting on NFL games.
